@@ -51,7 +51,7 @@ require (
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
 	golang.org/x/sys v0.0.0-20191010194322-b09406accb47 // indirect
 	golang.org/x/text v0.3.2
-	google.golang.org/api v0.11.0
+	google.golang.org/api v0.13.0
 	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55
 	google.golang.org/grpc v1.22.1
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
